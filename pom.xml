@@ -291,6 +291,7 @@
 		<dependency>
 			<groupId>com.idega.block.private</groupId>
 			<artifactId>com.idega.kopavogur.parking</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>com.idega.block.private</groupId>
 			<artifactId>com.idega.camunda</artifactId>
